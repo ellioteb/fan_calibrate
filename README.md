@@ -13,7 +13,9 @@
 
 1. Run the `install.sh` script to set up the module:
    ```bash
-   ./install.sh
+   cd ~
+   git clone https://github.com/SkyTech3D/fan_calibrate.git
+   ./fan_calibrate/install.sh
    ```
 
 2. After installation is complete, add the following section to your `printer.cfg` file:
